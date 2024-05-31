@@ -1,0 +1,9 @@
+{
+  "name": "live-python-code-block",
+  "version": "1.0.0",
+  "main": "LivePythonCodeBlock.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2"
+  }
+}
